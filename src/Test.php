@@ -5,6 +5,6 @@ class Test
 {
     public function echoSome($str)
     {
-        echo 'composer'.$str;
+        echo 'composer.webhook'.$str;
     }
 }
